@@ -1,4 +1,4 @@
-#Strategy & Vision
+# Strategy & Vision
 
 
 ##  Business Strategy 
