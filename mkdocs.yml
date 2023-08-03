@@ -13,6 +13,8 @@ theme:
 
   features:
     - navigation.tabs
+    - navigation.indexes 
+
  
   favicon: images/favicon.png # unfinished
 
@@ -25,9 +27,17 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.highlight
   - attr_list
   - md_in_html
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
 
+nav:
+  - Home:
+      - index.md  
+  - About : 
+            - about/strategy-and-vision.md
+            - about/code-of-conduct.md
+            - about/Developers.md
