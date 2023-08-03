@@ -1,6 +1,11 @@
 site_name: Shift Software
 
 theme:
+  
+  icon:
+    admonition:
+    <type>: <icon> 
+    
   name: material
   
   palette:
@@ -17,6 +22,9 @@ theme:
 
 
 markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - attr_list
   - md_in_html
   - def_list

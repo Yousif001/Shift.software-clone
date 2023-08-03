@@ -41,4 +41,7 @@ A work agreement with a developer is partially or completely terminated if one o
 * Constantly failing: the developer constantly delivers failed products/services to end-users due to irresponsibility and noncompliance.
 
 
+!!! note 
 
+    A product/service is considered as failed __IF and ONLY IF__ the product/service is considered as completely developed/built 
+    and __launched (delivered)__ to the end-users, and the problems/shortcomings are __discovered after the delivery__.
