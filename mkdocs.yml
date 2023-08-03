@@ -1,0 +1,26 @@
+site_name: Shift Software
+
+theme:
+  name: material
+  
+  palette:
+    primary: amber
+
+  features:
+    - navigation.tabs
+ 
+  favicon: images/favicon.png # unfinished
+
+
+  logo: assets/shift logo.png
+
+
+
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
