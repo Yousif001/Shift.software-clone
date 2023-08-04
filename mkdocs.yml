@@ -13,7 +13,10 @@ theme:
 
   features:
     - navigation.tabs
-    - navigation.indexes 
+    - navigation.indexes
+    - navigation.sections 
+
+
 
  
   favicon: images/favicon.png # unfinished
@@ -41,3 +44,11 @@ nav:
             - about/strategy-and-vision.md
             - about/code-of-conduct.md
             - about/Developers.md
+  - Philosophy : 
+            - Philosophy/philosophy.md
+            - Philosophy/characteristics.md
+  - Software Development : 
+            - software-development/tasks.md
+            - software-development/continuous-integration.md
+            - software-development/automated-testing.md
+            - software-development/continuous-delivery.md
