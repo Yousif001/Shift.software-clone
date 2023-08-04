@@ -9,3 +9,4 @@ And we practice these values when working on software development.
 Software is our craft, and the path to mastery is our journey.
 
 [about us](docs/about/strategy-and-vision.md){ .md-button .md-button--primary }
+
