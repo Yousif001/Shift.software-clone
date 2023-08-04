@@ -25,7 +25,7 @@ the following are expected from our developers:
 senior developers should know the business inside out, 
 and they should be able to take necessary actions to move projects forward without much supervision. 
 The longer they stay in the company, the more they're held accountable.
-* Apply engineering principles and adhere to company values. As listed on our [Code of Conduct](about/code-of-conduct)
+* Apply engineering principles and adhere to company values. As listed on our [Code of Conduct](about/code-of-conduct.md)
 * Avoid mistakes and failure at all cost: mistakes are inevitable, 
 * and can't be avoided, but they should be addressed before making their way to the final products/services.
 
