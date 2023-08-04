@@ -38,8 +38,7 @@ markdown_extensions:
       custom_checkbox: true
 
 nav:
-  - Home:
-      - index.md  
+  - Home: index.md  
   - About : 
             - about/strategy-and-vision.md
             - about/code-of-conduct.md
