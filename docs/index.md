@@ -1,4 +1,4 @@
-# ![shift-full](/assets/shift-full.png) 
+# ![shift-full](docs/assets/shift-full.png) 
 ### Custom Software & Professional Consultation	
 
 We are motivated by Art, Engineering, and Science.
