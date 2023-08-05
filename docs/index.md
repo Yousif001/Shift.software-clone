@@ -1,8 +1,5 @@
-# ![shift-full](https://shift.software/assets/images/shift-full.png){  align=left }
-
-
-
-##Custom Software & Professional Consultation	
+# <span class="shift-full">![shift-full](/assets/shift-full.png) </span>
+### Custom Software & Professional Consultation	
 
 We are motivated by Art, Engineering, and Science.
 And we practice these values when working on software development.

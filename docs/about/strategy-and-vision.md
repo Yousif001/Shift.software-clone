@@ -1,7 +1,7 @@
 # Strategy & Vision
 
 
-##  Business Strategy 
+##  Business Strategy
 
 We're an engineering firm and the way we're doing business corresponds to engineering and scientific principles.
 
@@ -12,7 +12,7 @@ Our clients and partners do business with us for being transparent, trustworthy,
 
 ## Team & Community
 
-We aim to be an open organization.
+We aim to be an open organization.<br>
 Open internally, with clients/customers, and open with the community.
 
 The openness nature of the company is a driver of growth and it's a testimony of our competence.

@@ -1,5 +1,7 @@
 site_name: Shift Software
 
+repo_url: https://github.com/Yousif001/Shift.software-clone
+
 theme:
   
   icon:
@@ -16,11 +18,7 @@ theme:
     - navigation.indexes
     - navigation.sections 
 
-
-
- 
-  favicon: images/favicon.png # unfinished
-
+  favicon: images/favicon.png 
 
   logo: assets/shift logo.png
 
@@ -37,6 +35,9 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
 
+extra_css:
+  - stylesheets/extra.css
+
 nav:
   - Home:
       - index.md  
@@ -52,3 +53,6 @@ nav:
             - software-development/continuous-integration.md
             - software-development/automated-testing.md
             - software-development/continuous-delivery.md
+
+
+            
