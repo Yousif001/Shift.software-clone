@@ -1,4 +1,4 @@
-# <span class="shift-full">![shift-full](/assets/shift-full.png) </span>
+# ![shift-full](/assets/shift-full.png) 
 ### Custom Software & Professional Consultation	
 
 We are motivated by Art, Engineering, and Science.
