@@ -3,12 +3,13 @@ site_name: Shift Software
 repo_url: https://github.com/Yousif001/Shift.software-clone
 
 theme:
-
+    
   icon:
     admonition:
     <type>: <icon> 
     
   name: material
+  custom_dir: docs/overrides
   
   palette:
     primary: amber
@@ -68,5 +69,10 @@ extra:
       link: https://www.facebook.com/the.shift.software
 
 copyright: Copyright &copy; 2023 Yousif Zuher
+
+
+
+
+
 
  
