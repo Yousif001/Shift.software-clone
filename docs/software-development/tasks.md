@@ -41,7 +41,7 @@ then followed by the task title. eg: `#301uqa7: Change date format to 'yyyy-MM-d
 
 	  The fact that work is broken down to the smallest possible unit and the one-to-one relation between a task and a commit, 
 	  forces every commit to also be very small.<br>
-	  This is naturally enabling the practice [Continuous Integration](/software-development/continuous-integration)
+	  This is naturally enabling the practice [Continuous Integration](/software-development/continuous-integration.md)
 
 ## Time Tracking
 
